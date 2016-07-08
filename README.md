@@ -1,0 +1,2 @@
+# otameshi
+first test repository
